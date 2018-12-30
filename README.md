@@ -1,1 +1,1 @@
-# Code4LeetCode
+# code4algo
